@@ -1,6 +1,6 @@
 👋 I'm Dmitry, a digital marketer turned DevOps and Full-Stack Developer enthusiast. Welcome to my coding journey!
 
-## 🌐 From Digitla Marketing to Devops Engineer
+## 🌐 From Digital Marketing to Devops Engineer
 
 In my previous experience, I navigated the digital marketing landscape, creating campaigns, analyzing data, buildidng marketing triggers with JavaScript and Python. However, my passion for technology and automation led me to a new adventure the world of Tech. I've embarked on a learning journey, embracing the challenges and excitement of transforming from a digital marketer to a DevOps practitioner.
 
